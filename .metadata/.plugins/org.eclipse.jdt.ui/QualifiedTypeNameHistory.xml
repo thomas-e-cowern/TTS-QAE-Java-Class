@@ -7,4 +7,17 @@
 <fullyQualifiedTypeName name="java.io.BufferedReader"/>
 <fullyQualifiedTypeName name="java.io.IOException"/>
 <fullyQualifiedTypeName name="java.io.FileWriter"/>
+<fullyQualifiedTypeName name="org.junit.jupiter.api.BeforeEach"/>
+<fullyQualifiedTypeName name="org.junit.jupiter.api.TestInstance"/>
+<fullyQualifiedTypeName name="org.junit.jupiter.api.TestInstance.Lifecycle"/>
+<fullyQualifiedTypeName name="org.junit.jupiter.api.DisplayName"/>
+<fullyQualifiedTypeName name="org.junit.jupiter.api.Disabled"/>
+<fullyQualifiedTypeName name="org.junit.jupiter.api.condition.EnabledOnOs"/>
+<fullyQualifiedTypeName name="org.junit.jupiter.api.condition.OS"/>
+<fullyQualifiedTypeName name="org.junit.jupiter.api.Nested"/>
+<fullyQualifiedTypeName name="org.junit.jupiter.api.RepeatedTest"/>
+<fullyQualifiedTypeName name="org.junit.jupiter.api.RepetitionInfo"/>
+<fullyQualifiedTypeName name="org.junit.jupiter.api.Tag"/>
+<fullyQualifiedTypeName name="org.junit.jupiter.api.TestInfo"/>
+<fullyQualifiedTypeName name="org.junit.jupiter.api.TestReporter"/>
 </qualifiedTypeNameHistroy>
